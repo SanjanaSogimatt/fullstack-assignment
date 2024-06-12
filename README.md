@@ -5,7 +5,7 @@
 This assignment involves setting up a simple username/password authentication system using Redux for state management and Next.js for the front-end and back-end. You will create API endpoints with bearer token authentication and implement a custom `useAuthSession` hook to manage the user's session on the client side.
 
 ## Your Tasks
-
+**Completed**
 1. **Implement the `useAuthSession` Hook**:
 
    - In `hooks/useAuthSession.ts`, create a custom hook that manages the user's authentication session.
@@ -32,7 +32,7 @@ if (user) {
 ## Estimated Time
 
 Please spend no more than 3-4 hours on this assignment and submit whatever you can complete within that time frame.
-
+**Completed**
 ## Bonus Tasks
 
 1. Add validation checks for the login form.
